@@ -17984,9 +17984,9 @@
 								</DiagramElementRefProperty>
 							</ModelProperties>
 							<ChildModels>
-								<Model composite="false" considerDefaultProperties="false" displayModelType="Use Case" id="ZGFmFpaFS_ggyAvU" modelType="UseCase" name="Logowanie">
+								<Model composite="false" considerDefaultProperties="false" displayModelType="Use Case" id="ZGFmFpaFS_ggyAvU" modelType="UseCase" name="Logowanie z karty">
 									<ModelProperties>
-										<StringProperty displayName="Name" name="name" value="Logowanie"/>
+										<StringProperty displayName="Name" name="name" value="Logowanie z karty"/>
 										<StringProperty displayName="Model Type" name="modelType" value="UseCase"/>
 										<ModelsProperty displayName="Comments" name="comments"/>
 										<HTMLProperty displayName="Description" name="documentation" plainTextValue=""/>
@@ -18005,7 +18005,7 @@
 										<ModelRefProperty displayName="Pm Discipline" name="pmDiscipline"/>
 										<StringProperty displayName="Pm Author" name="pmAuthor" value="Student"/>
 										<StringProperty displayName="Pm Create Date Time" name="pmCreateDateTime" value="1552234743334"/>
-										<StringProperty displayName="Pm Last Modified" name="pmLastModified" value="1552236260429"/>
+										<StringProperty displayName="Pm Last Modified" name="pmLastModified" value="1552237096669"/>
 										<StringProperty displayName="Id" name="userID" value="UC04"/>
 										<IntegerProperty displayName="User IDLast Numeric Value" name="userIDLastNumericValue" value="0"/>
 										<IntegerProperty displayName="Backlog Activity Id" name="backlogActivityId" value="0"/>
@@ -18419,13 +18419,13 @@
 										<StringProperty displayName="Context Name" name="contextName"/>
 										<ModelRefsProperty displayName="Context" name="context"/>
 										<DiagramElementRefProperty displayName="Master View" name="masterView">
-											<DiagramElementRef displayShapeType="Use Case" id="ZGFmFpaFS_ggyAvT" model="ZGFmFpaFS_ggyAvU" name="Logowanie" shapeType="UseCase"/>
+											<DiagramElementRef displayShapeType="Use Case" id="ZGFmFpaFS_ggyAvT" model="ZGFmFpaFS_ggyAvU" name="Logowanie z karty" shapeType="UseCase"/>
 										</DiagramElementRefProperty>
 									</ModelProperties>
 								</Model>
-								<Model composite="false" considerDefaultProperties="false" displayModelType="Use Case" id="QnlmFpaFS_ggyAvm" modelType="UseCase" name="Dokonywanie zamowien">
+								<Model composite="false" considerDefaultProperties="false" displayModelType="Use Case" id="QnlmFpaFS_ggyAvm" modelType="UseCase" name="Zarządzanie zamowieniami">
 									<ModelProperties>
-										<StringProperty displayName="Name" name="name" value="Dokonywanie zamowien"/>
+										<StringProperty displayName="Name" name="name" value="Zarządzanie zamowieniami"/>
 										<StringProperty displayName="Model Type" name="modelType" value="UseCase"/>
 										<ModelsProperty displayName="Comments" name="comments"/>
 										<HTMLProperty displayName="Description" name="documentation" plainTextValue=""/>
@@ -18444,7 +18444,7 @@
 										<ModelRefProperty displayName="Pm Discipline" name="pmDiscipline"/>
 										<StringProperty displayName="Pm Author" name="pmAuthor" value="Student"/>
 										<StringProperty displayName="Pm Create Date Time" name="pmCreateDateTime" value="1552234749506"/>
-										<StringProperty displayName="Pm Last Modified" name="pmLastModified" value="1552236438959"/>
+										<StringProperty displayName="Pm Last Modified" name="pmLastModified" value="1552237151165"/>
 										<StringProperty displayName="Id" name="userID" value="UC05"/>
 										<IntegerProperty displayName="User IDLast Numeric Value" name="userIDLastNumericValue" value="0"/>
 										<IntegerProperty displayName="Backlog Activity Id" name="backlogActivityId" value="0"/>
@@ -18858,13 +18858,13 @@
 										<StringProperty displayName="Context Name" name="contextName"/>
 										<ModelRefsProperty displayName="Context" name="context"/>
 										<DiagramElementRefProperty displayName="Master View" name="masterView">
-											<DiagramElementRef displayShapeType="Use Case" id="QnlmFpaFS_ggyAvl" model="QnlmFpaFS_ggyAvm" name="Dokonywanie zamowien" shapeType="UseCase"/>
+											<DiagramElementRef displayShapeType="Use Case" id="QnlmFpaFS_ggyAvl" model="QnlmFpaFS_ggyAvm" name="Zarządzanie zamowieniami" shapeType="UseCase"/>
 										</DiagramElementRefProperty>
 									</ModelProperties>
 								</Model>
-								<Model composite="false" considerDefaultProperties="false" displayModelType="Use Case" id="UdtmFpaFS_ggyAv8" modelType="UseCase" name="Rejestrowanie swoich informacji z kart kontrolnych">
+								<Model composite="false" considerDefaultProperties="false" displayModelType="Use Case" id="UdtmFpaFS_ggyAv8" modelType="UseCase" name="Zarządzanie danymi pracowników">
 									<ModelProperties>
-										<StringProperty displayName="Name" name="name" value="Rejestrowanie swoich informacji z kart kontrolnych"/>
+										<StringProperty displayName="Name" name="name" value="Zarządzanie danymi pracowników"/>
 										<StringProperty displayName="Model Type" name="modelType" value="UseCase"/>
 										<ModelsProperty displayName="Comments" name="comments"/>
 										<HTMLProperty displayName="Description" name="documentation" plainTextValue=""/>
@@ -18883,7 +18883,7 @@
 										<ModelRefProperty displayName="Pm Discipline" name="pmDiscipline"/>
 										<StringProperty displayName="Pm Author" name="pmAuthor" value="Student"/>
 										<StringProperty displayName="Pm Create Date Time" name="pmCreateDateTime" value="1552234765194"/>
-										<StringProperty displayName="Pm Last Modified" name="pmLastModified" value="1552236361627"/>
+										<StringProperty displayName="Pm Last Modified" name="pmLastModified" value="1552237354757"/>
 										<StringProperty displayName="Id" name="userID" value="UC06"/>
 										<IntegerProperty displayName="User IDLast Numeric Value" name="userIDLastNumericValue" value="0"/>
 										<IntegerProperty displayName="Backlog Activity Id" name="backlogActivityId" value="0"/>
@@ -19297,13 +19297,13 @@
 										<StringProperty displayName="Context Name" name="contextName"/>
 										<ModelRefsProperty displayName="Context" name="context"/>
 										<DiagramElementRefProperty displayName="Master View" name="masterView">
-											<DiagramElementRef displayShapeType="Use Case" id="UdtmFpaFS_ggyAv7" model="UdtmFpaFS_ggyAv8" name="Rejestrowanie swoich informacji z kart kontrolnych" shapeType="UseCase"/>
+											<DiagramElementRef displayShapeType="Use Case" id="UdtmFpaFS_ggyAv7" model="UdtmFpaFS_ggyAv8" name="Zarządzanie danymi pracowników" shapeType="UseCase"/>
 										</DiagramElementRefProperty>
 									</ModelProperties>
 								</Model>
-								<Model composite="false" considerDefaultProperties="false" displayModelType="Use Case" id="9u9mFpaFS_ggyAwO" modelType="UseCase" name="Zmiana preferencji pracownika">
+								<Model composite="false" considerDefaultProperties="false" displayModelType="Use Case" id="9u9mFpaFS_ggyAwO" modelType="UseCase" name="Zmiana preferencji pracownika (wypłaty)">
 									<ModelProperties>
-										<StringProperty displayName="Name" name="name" value="Zmiana preferencji pracownika"/>
+										<StringProperty displayName="Name" name="name" value="Zmiana preferencji pracownika (wypłaty)"/>
 										<StringProperty displayName="Model Type" name="modelType" value="UseCase"/>
 										<ModelsProperty displayName="Comments" name="comments"/>
 										<HTMLProperty displayName="Description" name="documentation" plainTextValue=""/>
@@ -19322,7 +19322,7 @@
 										<ModelRefProperty displayName="Pm Discipline" name="pmDiscipline"/>
 										<StringProperty displayName="Pm Author" name="pmAuthor" value="Student"/>
 										<StringProperty displayName="Pm Create Date Time" name="pmCreateDateTime" value="1552234772335"/>
-										<StringProperty displayName="Pm Last Modified" name="pmLastModified" value="1552236495697"/>
+										<StringProperty displayName="Pm Last Modified" name="pmLastModified" value="1552237135307"/>
 										<StringProperty displayName="Id" name="userID" value="UC07"/>
 										<IntegerProperty displayName="User IDLast Numeric Value" name="userIDLastNumericValue" value="0"/>
 										<IntegerProperty displayName="Backlog Activity Id" name="backlogActivityId" value="0"/>
@@ -19736,13 +19736,13 @@
 										<StringProperty displayName="Context Name" name="contextName"/>
 										<ModelRefsProperty displayName="Context" name="context"/>
 										<DiagramElementRefProperty displayName="Master View" name="masterView">
-											<DiagramElementRef displayShapeType="Use Case" id="9u9mFpaFS_ggyAwN" model="9u9mFpaFS_ggyAwO" name="Zmiana preferencji pracownika" shapeType="UseCase"/>
+											<DiagramElementRef displayShapeType="Use Case" id="9u9mFpaFS_ggyAwN" model="9u9mFpaFS_ggyAwO" name="Zmiana preferencji pracownika (wypłaty)" shapeType="UseCase"/>
 										</DiagramElementRefProperty>
 									</ModelProperties>
 								</Model>
-								<Model composite="false" considerDefaultProperties="false" displayModelType="Use Case" id="EcXmFpaFS_ggyAxR" modelType="UseCase" name="Automatyczne generowanie wysokosci wyplaty">
+								<Model composite="false" considerDefaultProperties="false" displayModelType="Use Case" id="EcXmFpaFS_ggyAxR" modelType="UseCase" name="Tworzenie raportu administratora">
 									<ModelProperties>
-										<StringProperty displayName="Name" name="name" value="Automatyczne generowanie wysokosci wyplaty"/>
+										<StringProperty displayName="Name" name="name" value="Tworzenie raportu administratora"/>
 										<StringProperty displayName="Model Type" name="modelType" value="UseCase"/>
 										<ModelsProperty displayName="Comments" name="comments"/>
 										<HTMLProperty displayName="Description" name="documentation" plainTextValue=""/>
@@ -19761,7 +19761,7 @@
 										<ModelRefProperty displayName="Pm Discipline" name="pmDiscipline"/>
 										<StringProperty displayName="Pm Author" name="pmAuthor" value="Student"/>
 										<StringProperty displayName="Pm Create Date Time" name="pmCreateDateTime" value="1552234816392"/>
-										<StringProperty displayName="Pm Last Modified" name="pmLastModified" value="1552236438956"/>
+										<StringProperty displayName="Pm Last Modified" name="pmLastModified" value="1552237200000"/>
 										<StringProperty displayName="Id" name="userID" value="UC08"/>
 										<IntegerProperty displayName="User IDLast Numeric Value" name="userIDLastNumericValue" value="0"/>
 										<IntegerProperty displayName="Backlog Activity Id" name="backlogActivityId" value="0"/>
@@ -20175,13 +20175,13 @@
 										<StringProperty displayName="Context Name" name="contextName"/>
 										<ModelRefsProperty displayName="Context" name="context"/>
 										<DiagramElementRefProperty displayName="Master View" name="masterView">
-											<DiagramElementRef displayShapeType="Use Case" id="EcXmFpaFS_ggyAxQ" model="EcXmFpaFS_ggyAxR" name="Automatyczne generowanie wysokosci wyplaty" shapeType="UseCase"/>
+											<DiagramElementRef displayShapeType="Use Case" id="EcXmFpaFS_ggyAxQ" model="EcXmFpaFS_ggyAxR" name="Tworzenie raportu administratora" shapeType="UseCase"/>
 										</DiagramElementRefProperty>
 									</ModelProperties>
 								</Model>
-								<Model composite="false" considerDefaultProperties="false" displayModelType="Use Case" id="j6vmFpaFS_ggyAxv" modelType="UseCase" name="Tworzenie raportow">
+								<Model composite="false" considerDefaultProperties="false" displayModelType="Use Case" id="j6vmFpaFS_ggyAxv" modelType="UseCase" name="Tworzenie raportu pracownika">
 									<ModelProperties>
-										<StringProperty displayName="Name" name="name" value="Tworzenie raportow"/>
+										<StringProperty displayName="Name" name="name" value="Tworzenie raportu pracownika"/>
 										<StringProperty displayName="Model Type" name="modelType" value="UseCase"/>
 										<ModelsProperty displayName="Comments" name="comments"/>
 										<HTMLProperty displayName="Description" name="documentation" plainTextValue=""/>
@@ -20200,7 +20200,7 @@
 										<ModelRefProperty displayName="Pm Discipline" name="pmDiscipline"/>
 										<StringProperty displayName="Pm Author" name="pmAuthor" value="Student"/>
 										<StringProperty displayName="Pm Create Date Time" name="pmCreateDateTime" value="1552234829297"/>
-										<StringProperty displayName="Pm Last Modified" name="pmLastModified" value="1552236465512"/>
+										<StringProperty displayName="Pm Last Modified" name="pmLastModified" value="1552237200000"/>
 										<StringProperty displayName="Id" name="userID" value="UC09"/>
 										<IntegerProperty displayName="User IDLast Numeric Value" name="userIDLastNumericValue" value="0"/>
 										<IntegerProperty displayName="Backlog Activity Id" name="backlogActivityId" value="0"/>
@@ -20614,7 +20614,7 @@
 										<StringProperty displayName="Context Name" name="contextName"/>
 										<ModelRefsProperty displayName="Context" name="context"/>
 										<DiagramElementRefProperty displayName="Master View" name="masterView">
-											<DiagramElementRef displayShapeType="Use Case" id="j6vmFpaFS_ggyAxu" model="j6vmFpaFS_ggyAxv" name="Tworzenie raportow" shapeType="UseCase"/>
+											<DiagramElementRef displayShapeType="Use Case" id="j6vmFpaFS_ggyAxu" model="j6vmFpaFS_ggyAxv" name="Tworzenie raportu pracownika" shapeType="UseCase"/>
 										</DiagramElementRefProperty>
 									</ModelProperties>
 								</Model>
@@ -21658,7 +21658,7 @@
 				<StringProperty displayName="Pm Phase Id" name="pmPhaseId"/>
 				<StringProperty displayName="Pm Author" name="pmAuthor" value="Student"/>
 				<StringProperty displayName="Pm Create Date Time" name="pmCreateDateTime" value="1552233098517"/>
-				<StringProperty displayName="Pm Last Modified" name="pmLastModified" value="1552236541611"/>
+				<StringProperty displayName="Pm Last Modified" name="pmLastModified" value="1552237344755"/>
 				<StringProperty displayName="Teamwork Author" name="teamworkAuthor"/>
 				<LongProperty displayName="Teamwork Create Date Time" name="teamworkCreateDateTime" value="0"/>
 				<BooleanProperty displayName="Show Shape Legend" name="showShapeLegend" value="false"/>
@@ -21705,8 +21705,8 @@
 				<DoubleProperty displayName="Zoom Ratio" name="zoomRatio" value="1.0"/>
 				<IntegerProperty displayName="X" name="x" value="0"/>
 				<IntegerProperty displayName="Y" name="y" value="0"/>
-				<IntegerProperty displayName="Width" name="width" value="1281"/>
-				<IntegerProperty displayName="Height" name="height" value="842"/>
+				<IntegerProperty displayName="Width" name="width" value="932"/>
+				<IntegerProperty displayName="Height" name="height" value="876"/>
 				<IntegerProperty displayName="Quality Score" name="qualityScore" value="-1"/>
 				<ModelRefProperty displayName="Parent Model" name="parentModel">
 					<ModelRef id="PSrSFpaFS_ggyAkh"/>
@@ -21887,7 +21887,7 @@
 							<Caption height="65" internalHeight="-2147483648" internalWidth="-2147483648" side="Center" visible="true" width="150" x="0" y="0"/>
 							<FillColor color="Cr:122,207,245,255" style="1" transparency="0" type="1"/>
 						</Shape>
-						<Shape height="68" id="j6vmFpaFS_ggyAxu" model="j6vmFpaFS_ggyAxv" name="Tworzenie raportow" shapeType="UseCase" width="153" x="567" y="274" zorder="6">
+						<Shape height="68" id="j6vmFpaFS_ggyAxu" model="j6vmFpaFS_ggyAxv" name="Tworzenie raportu pracownika" shapeType="UseCase" width="153" x="567" y="274" zorder="6">
 							<DiagramElementProperties>
 								<IntegerProperty displayName="ZOrder" name="zOrder" value="6"/>
 								<ModelRefProperty displayName="Meta Model Element" name="metaModelElement">
@@ -21938,7 +21938,7 @@
 							<Caption height="68" internalHeight="-2147483648" internalWidth="-2147483648" side="Center" visible="true" width="153" x="0" y="0"/>
 							<FillColor color="Cr:122,207,245,255" style="1" transparency="0" type="1"/>
 						</Shape>
-						<Shape height="68" id="EcXmFpaFS_ggyAxQ" model="EcXmFpaFS_ggyAxR" name="Automatyczne generowanie wysokosci wyplaty" shapeType="UseCase" width="148" x="291" y="274" zorder="8">
+						<Shape height="68" id="EcXmFpaFS_ggyAxQ" model="EcXmFpaFS_ggyAxR" name="Tworzenie raportu administratora" shapeType="UseCase" width="148" x="291" y="274" zorder="8">
 							<DiagramElementProperties>
 								<IntegerProperty displayName="ZOrder" name="zOrder" value="8"/>
 								<ModelRefProperty displayName="Meta Model Element" name="metaModelElement">
@@ -21989,7 +21989,7 @@
 							<Caption height="68" internalHeight="-2147483648" internalWidth="-2147483648" side="Center" visible="true" width="148" x="0" y="0"/>
 							<FillColor color="Cr:122,207,245,255" style="1" transparency="0" type="1"/>
 						</Shape>
-						<Shape height="69" id="9u9mFpaFS_ggyAwN" model="9u9mFpaFS_ggyAwO" name="Zmiana preferencji pracownika" shapeType="UseCase" width="153" x="567" y="170" zorder="10">
+						<Shape height="69" id="9u9mFpaFS_ggyAwN" model="9u9mFpaFS_ggyAwO" name="Zmiana preferencji pracownika (wypłaty)" shapeType="UseCase" width="153" x="567" y="170" zorder="10">
 							<DiagramElementProperties>
 								<IntegerProperty displayName="ZOrder" name="zOrder" value="10"/>
 								<ModelRefProperty displayName="Meta Model Element" name="metaModelElement">
@@ -22040,7 +22040,7 @@
 							<Caption height="69" internalHeight="-2147483648" internalWidth="-2147483648" side="Center" visible="true" width="153" x="0" y="0"/>
 							<FillColor color="Cr:122,207,245,255" style="1" transparency="0" type="1"/>
 						</Shape>
-						<Shape height="69" id="UdtmFpaFS_ggyAv7" model="UdtmFpaFS_ggyAv8" name="Rejestrowanie swoich informacji z kart kontrolnych" shapeType="UseCase" width="148" x="291" y="170" zorder="12">
+						<Shape height="69" id="UdtmFpaFS_ggyAv7" model="UdtmFpaFS_ggyAv8" name="Zarządzanie danymi pracowników" shapeType="UseCase" width="148" x="291" y="170" zorder="12">
 							<DiagramElementProperties>
 								<IntegerProperty displayName="ZOrder" name="zOrder" value="12"/>
 								<ModelRefProperty displayName="Meta Model Element" name="metaModelElement">
@@ -22091,7 +22091,7 @@
 							<Caption height="69" internalHeight="-2147483648" internalWidth="-2147483648" side="Center" visible="true" width="148" x="0" y="0"/>
 							<FillColor color="Cr:122,207,245,255" style="1" transparency="0" type="1"/>
 						</Shape>
-						<Shape height="70" id="QnlmFpaFS_ggyAvl" model="QnlmFpaFS_ggyAvm" name="Dokonywanie zamowien" shapeType="UseCase" width="153" x="567" y="64" zorder="14">
+						<Shape height="70" id="QnlmFpaFS_ggyAvl" model="QnlmFpaFS_ggyAvm" name="Zarządzanie zamowieniami" shapeType="UseCase" width="153" x="567" y="64" zorder="14">
 							<DiagramElementProperties>
 								<IntegerProperty displayName="ZOrder" name="zOrder" value="14"/>
 								<ModelRefProperty displayName="Meta Model Element" name="metaModelElement">
@@ -22142,7 +22142,7 @@
 							<Caption height="70" internalHeight="-2147483648" internalWidth="-2147483648" side="Center" visible="true" width="153" x="0" y="0"/>
 							<FillColor color="Cr:122,207,245,255" style="1" transparency="0" type="1"/>
 						</Shape>
-						<Shape height="70" id="ZGFmFpaFS_ggyAvT" model="ZGFmFpaFS_ggyAvU" name="Logowanie" shapeType="UseCase" width="148" x="291" y="64" zorder="16">
+						<Shape height="70" id="ZGFmFpaFS_ggyAvT" model="ZGFmFpaFS_ggyAvU" name="Logowanie z karty" shapeType="UseCase" width="148" x="291" y="64" zorder="16">
 							<DiagramElementProperties>
 								<IntegerProperty displayName="ZOrder" name="zOrder" value="16"/>
 								<ModelRefProperty displayName="Meta Model Element" name="metaModelElement">
